@@ -1,10 +1,6 @@
 # CommandLine-Terminal
 This repo is from Platzi's course "Introducción a la Terminal y Línea de Comandos"
 
-## What it is terminal?
-- **Terminal**: is the window that shows us the prompt. This houses the shell.
-- **Command Line**: program that takes commands and passes them to the operating system to do something.
-
 ## Route Descriptors
 | Command | Description |
 | --------- | --------- |
