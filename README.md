@@ -1,5 +1,5 @@
 # CommandLine-Terminal
-This repo is from Platzi's course "Introducción a la Terminal y Línea de Comandos"
+This repo is from Platzi's course "[Introducción a la Terminal y Línea de Comandos](https://platzi.com/clases/terminal/)"
 
 ## Route Descriptors
 | Command | Description |
